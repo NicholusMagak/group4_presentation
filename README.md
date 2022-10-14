@@ -1,1 +1,1 @@
-The program calculates the protfolios money weighted return
+The program calculates the portfolios money weighted return
