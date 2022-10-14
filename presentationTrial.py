@@ -1,6 +1,6 @@
-def countDown(number):
-    while number > 0:
-      print(f'{number}')
-      number -= 1
+def Calculate_Return(beginningVal,endingVal):
+	IG = endingVal - beginningVal
+	IG_Growth = IG / beginningVal
+	return IG_Growth
 
-countDown(5)
+InvestmentGrowth(2000000,4000000)
