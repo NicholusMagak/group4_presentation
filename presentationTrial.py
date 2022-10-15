@@ -1,6 +1,6 @@
 def countDown(number):
     while number > 0:
       print(f'{number}')
-      number -= 1
+      number -= 3
 
-countDown(5)
+countDown(9)
